@@ -630,7 +630,7 @@
     <main class="main-content">
         <div class="tg-card">
             <div class="card-header-custom">
-                <h2 class="card-title-custom">Portal de Ayuda Social</h2>
+                <h2 class="card-title-custom">Portal de Consulta de Programas Sociales</h2>
             </div>
 
             <div id="main-form-container" class="form-area">
