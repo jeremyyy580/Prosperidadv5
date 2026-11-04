@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Prosperidad Social - Verificación de Ayuda</title>
+    <title> Prosperidad Social - Verificación </title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -621,8 +621,8 @@
     <section class="ps-banner">
         <div class="banner-content">
             <div class="banner-glass">
-                <h1>Apoyo Económico para tu Familia</h1>
-                <p>Verifique su elegibilidad y acceda a los beneficios de manera rápida y segura.</p>
+                <h1>Apoyo Económico para los Hogares Colombianos</h1>
+                <p>Conoce los programas de asistencia económica, sus requisitos y las modalidades de transferencia disponibles para los hogares que cumplen los criterios establecidos.</p>
             </div>
         </div>
     </section>
